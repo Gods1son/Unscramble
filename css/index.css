@@ -58,7 +58,7 @@ body{
     padding: 5px;
     border-radius: 0px;
     color: white;
-    box-shadow: -1px 1px 3px 0px #5600ff;
+    box-shadow: 1px 3px 6px 0px #b5a1de;
     background: #5600ff; /*#4299e3;*/
     transform: skewX(-2deg) skewY(0deg);
 }
@@ -128,7 +128,7 @@ body{
 #logo{
     font-size: 2em;
     font-weight: 500;
-    letter-spacing: 2px;
+    /*letter-spacing: 2px;*/
     color: #5600ff;
     font-family: grobold;   
 }
